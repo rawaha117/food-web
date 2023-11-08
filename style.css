@@ -118,6 +118,7 @@ font-size: 28px;
     background-image: url(bg.jpg);
 z-index:-1;
 background-size: cover;
+    background-position:center;
 }
 
 #box{
@@ -224,7 +225,6 @@ margin-bottom:100px;
     position:absolute;
     top:0;
     left:0;
-    background: url(barger.jpg);
     background-size:cover ;
     background-repeat: no-repeat;
     z-index:-2;
@@ -545,6 +545,7 @@ padding-left:30px;
     #media img{
         width:80px;
         height:80px;
+        padding:10px;
     }
 
 
